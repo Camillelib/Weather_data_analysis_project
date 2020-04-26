@@ -35,5 +35,4 @@ The objective is to understand weather data through data collected in different 
  
 ### Average temperature evolution in Berlin:
 
-![Graph_Berlin](
-)
+![Graph_Berlin](https://github.com/Camillelib/Weather_data_analysis_project/blob/master/Output/1b.%20Average%20temperature%20per%20year%20for%20Berlin.png?raw=true)
